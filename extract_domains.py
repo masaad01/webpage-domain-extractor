@@ -57,5 +57,5 @@ def is_valid_url(url):
 
 # Example usage:
 input_source = 'https://example.com'  # Replace with the URL or HTML file path
-output_file = 'test.txt'  # Replace with desired output file
+output_file = 'test2.txt'  # Replace with desired output file
 extract_domains(input_source, output_file)
